@@ -1,22 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>bee 1047 - Tempo de Jogo com Minutos</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="author" content="beecrowd; www.beecrowd.com.br" />
-<meta name="description" content="beecrowd - Problem 1047 - Tempo de Jogo com Minutos" />
-<link href="https://fonts.googleapis.com/css?family=Ubuntu:400,700" rel="stylesheet" type="text/css">
-<link rel="stylesheet" type="text/css" href="https://resources.beecrowd.com.br/repository/default.css" />
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-28047757-1"></script>
-<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
 
-		gtag('config', 'UA-28047757-1');
-	</script>
-</head>
-<body>
 <div class="header">
 <span>beecrowd | 1047</span>
 <h1>Tempo de Jogo com Minutos</h1>
@@ -94,6 +76,3 @@ O JOGO DUROU 0 HORA(S) E 59 MINUTO(S)</p>
 <p class="footer">
 </p>
 </div>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"81f64897bb961aa3","version":"2023.10.0","token":"43f41e4aa277420bad9940f8d8a80572"}' crossorigin="anonymous"></script>
-</body>
-</html>
