@@ -1,10 +1,30 @@
 d= input()
 z = d.split()
-minutos = (int(z[0])*60+int(z[1]))-(int(z[2])*60+int(z[3]))
-hours = abs(minutos)//60
-calc = hours * 60
-result = calc - abs(minutos)
-if(z[0] == z[1] == z[2] == z[3]):
+hi = int(z[0])
+mi = int(z[1])
+hf = int(z[2])
+mf = int(z[3])
+
+if(hi == mi == hf == mf):
     print("O JOGO DUROU 24 HORA(S) E 0 MINUTO(S)")
+elif(hi > hf):
+    calci=(hi*60)+mi
+    calcf=((hf+24)*60)+mf 
+    result =calci - calcf 
+    time = abs(result)//60
+    minutos =  abs(result) % 60
+    print(f"O JOGO DUROU {abs(time)} HORA(S) E {abs(minutos)} MINUTO(S)")
+elif(hi == hf  and mf < mi):
+    calci=(hi*60)+mi
+    calcf=((hf+24)*60)+mf 
+    result =calci - calcf 
+    time = abs(result)//60
+    minutos =  abs(result) % 60
+    print(f"O JOGO DUROU {abs(time)} HORA(S) E {abs(minutos)} MINUTO(S)")
 else:
-    print(f"O JOGO DUROU {hours} HORA(S) E {abs(result)} MINUTO(S)")
+    calci=(hi*60)+mi
+    calcf=(hf*60)+mf 
+    result =calci - calcf 
+    time = abs(result)//60
+    minutos = abs(result) % 60
+    print(f"O JOGO DUROU {abs(time)} HORA(S) E {abs(minutos)} MINUTO(S)")
