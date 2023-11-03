@@ -7,7 +7,7 @@
 </h1>
 
 # Challenges
-<p>Temos o avanço rápido da técnologia, devido o crescimento exponencial de desenvolvedores. Para incentivar a nova geração de desenvolvedores, vamos realizar os desafios do site beecrowd. A cada desafio concluido e aceito na plataforma ele receberá uma pasta aqui com seu enunciado e sua resolução. Caso queira contribuir só realizar um PRs.</p>
+<p>Temos o avanço rápido da técnologia, devido o crescimento exponencial de desenvolvedores. Para incentivar a nova geração de desenvolvedores, vamos realizar os desafios do site beecrowd. A cada desafio concluido e aceito na plataforma ele receberá uma pasta aqui com seu enunciado e sua resolução. Caso queira contribuir só realizar um PRs.<br> Para que esse insentivo seja sempre bem intensificado iremos tentar realizar um desafio por dia.</p>
 <br>
 
 <h4>Configurações:</h4>
