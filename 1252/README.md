@@ -2,7 +2,7 @@
 <span>beecrowd | 1252</span>
 <h1>Sort! Sort!! e Sort!!!</h1>
 <div><p>
-Por Shahriar Manzoor, <img alt src="https://resources.beecrowd.com.br/gallery/images/flags/bd.gif" style="width: 16px; height: 11px; " /> Bangladesh</p>
+Por Shahriar Manzoor, <img alt src="https://resources.beecrowd.com.br/gallery/images/flags/bd.gif" style="width: 16px; height: 11px; "/> Bangladesh</p>
 </div>
 <strong>Timelimit: 2</strong>
 </div>
