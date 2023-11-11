@@ -2,7 +2,7 @@
 <span>beecrowd | 1180</span>
 <h1>Menor e Posição</h1>
 <div><p>
-Adaptado por Neilor Tonin, URI <img alt src="https://resources.beecrowd.com.br/gallery/images/flags/br.gif" style="width: 16px; height: 11px; " /> Brasil</p>
+Adaptado por Neilor Tonin, URI <img alt src="https://resources.beecrowd.com.br/gallery/images/flags/br.gif" style="width: 16px; height: 11px; "/> Brasil</p>
 </div>
 <strong>Timelimit: 1</strong>
 </div>
