@@ -2,7 +2,7 @@
 <span>beecrowd | 3042</span>
 <h1>Desviando de Árvores de Natal</h1>
 <div>
-<p>Por Gerson Groth, URI <img src="https://resources.beecrowd.com.br/gallery/images/flags/br.gif" alt="BR" /> Brazil</p>
+<p>Por Gerson Groth, URI <img src="https://resources.beecrowd.com.br/gallery/images/flags/br.gif" alt="BR" /> Brazil </p>
 </div>
 <strong>Timelimit: 1</strong>
 </div>
