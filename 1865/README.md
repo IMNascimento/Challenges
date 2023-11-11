@@ -2,7 +2,7 @@
 <span>beecrowd | 1865</span>
 <h1>Mjölnir</h1>
 <div>
-<p>Por Ricardo Martins, IFSULDEMINAS <img src="https://resources.beecrowd.com.br/gallery/images/flags/br.gif" alt="BR" /> Brazil</p>
+<p>Por Ricardo Martins, IFSULDEMINAS <img src="https://resources.beecrowd.com.br/gallery/images/flags/br.gif" alt="BR"/> Brazil</p>
 </div>
 <strong>Timelimit: 1</strong>
 </div>
