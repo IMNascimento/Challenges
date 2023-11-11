@@ -2,7 +2,7 @@
 <span>beecrowd | 1985</span>
 <h1>MacPRONALTS</h1>
 <div>
-<p>Por Victor Jatobá, UNIME <img src="https://resources.beecrowd.com.br/gallery/images/flags/br.gif" alt="BR" /> Brazil</p>
+<p>Por Victor Jatobá, UNIME <img src="https://resources.beecrowd.com.br/gallery/images/flags/br.gif" alt="BR"/> Brazil</p>
 </div>
 <strong>Timelimit: 1</strong>
 </div>
