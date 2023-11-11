@@ -1,4 +1,3 @@
-<body>
 <div class="header">
 <span>beecrowd | 1002</span>
 <h1>Área do Círculo</h1>
