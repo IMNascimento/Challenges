@@ -10,7 +10,7 @@ soma = 0
 elementos_acima_diagonal_secundaria = 0
 
 for i in range(11):
-    for j in range(12 - i, 12):
+    for j in range(11- i):
         soma += matriz[i][j]
         elementos_acima_diagonal_secundaria += 1
 
@@ -20,6 +20,3 @@ else:
     resultado = soma
 
 print(f'{resultado:.1f}')
-#erro Wrong answer (70%)
-# -3603.3 apresentada
-# +72020.9 esperada
